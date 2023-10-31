@@ -2,4 +2,4 @@ import streamlit
 
 streamlit.title('My Parents New Healthy Dinner')
 
-streamlit.title('Breakfast Menu')
+omega 3 & Blueberry oatmeal
